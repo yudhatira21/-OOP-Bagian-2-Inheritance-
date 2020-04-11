@@ -9,7 +9,7 @@ namespace LatihanInheritanceReal
             Person person = new Person("Yudha", 19);
             person.GetNameAndAge();
 
-            Teacher teacher = new Teacher("Euy", 11, 18098, "Guru");
+            Teacher teacher = new Teacher("Euy", 11, 18098, "Seterah");
             teacher.GetNameAndAge();
 
             Student student = new Student("Jarwo", 21, 14356, "Jarwo@gmail.com");
